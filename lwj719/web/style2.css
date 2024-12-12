@@ -1,0 +1,27 @@
+.renwu {
+    display:flex;
+    background-image:url(../images/13.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    justify-content:space-between;
+    align-items:center;
+    padding:100px 180px 80px;
+}
+.renwu div {
+    width:300px;
+    text-align:center;
+}
+.renwu img {
+    width:100%;
+    border-radius:13px;
+
+}
+.renwu h3 {
+    font-size:20px;
+    margin:20px 0;
+}
+.renwu p {
+    font-size:14px;
+    line-height:1.5em;
+}
